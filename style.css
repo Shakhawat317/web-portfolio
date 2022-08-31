@@ -1,0 +1,19 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(120, 179, 2);
+}
+.left-half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.right-half img{
+    width: 100%;
+}
